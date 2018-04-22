@@ -12,6 +12,8 @@ $myForm.addEventListener('submit', function(evt) {
     var formData = new FormData(myForm);
     console.log(formData);
 
+}
+
 });
 
-// Test 1
+// Test 2
