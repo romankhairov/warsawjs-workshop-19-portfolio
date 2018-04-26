@@ -1,5 +1,6 @@
 body, h1, p {
   margin: 0;
+  font-family: 'Roboto', sans-serif;
 }
 
 .title {
@@ -20,6 +21,12 @@ body, h1, p {
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: 30px
+}
+
+.gallery-title {
+  font-size: 45px;
+  text-align: center;
 }
 
 ul {
@@ -29,4 +36,21 @@ ul {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+}
+
+#menu {
+  background-color: rgb(55, 59, 83);
+  height: 40px;
+  font-size: 30px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.btn-menu-nav {
+  background-color: rgb(86, 91, 122);
+  padding: 5px 15px;
+  color: #fff;
+  text-decoration: none;
+  margin: 5px;
 }
