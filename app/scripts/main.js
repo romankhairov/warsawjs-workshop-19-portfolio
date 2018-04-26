@@ -12,11 +12,9 @@ $form.addEventListener('submit', function(evt) { // 9. listening for Submit
 
     const map = new Map( data ); // 12. Convert input form data into map
 
-    const email = map.get('email')
+    const email = map.get('email') 
 
     // alert(email);
     displayMessage(email); // 13. Show form input
-
-
 
 });

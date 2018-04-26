@@ -1,0 +1,19 @@
+{
+  "name": "warsawjs-workshop-19-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romankhairov/warsawjs-workshop-19-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romankhairov/warsawjs-workshop-19-portfolio/issues"
+  },
+  "homepage": "https://github.com/romankhairov/warsawjs-workshop-19-portfolio#readme"
+}
