@@ -24,7 +24,7 @@ body, h1, p {
   font-size: 30px
 }
 
-.gallery-title {
+.section-title {
   font-size: 45px;
   text-align: center;
 }
@@ -53,4 +53,17 @@ ul {
   color: #fff;
   text-decoration: none;
   margin: 5px;
+}
+
+.btn-menu-nav:hover {
+    color: rgb(59, 156, 162);
+}
+
+#form {
+  display: flex;
+  justify-content: center;
+}
+
+.form-input-title {
+  font-size: 20px;
 }
